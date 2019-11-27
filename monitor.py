@@ -1,6 +1,6 @@
 import serial
 from time import sleep
-from time import time, gmtime, strftime, localtime
+from time import time, strftime, localtime
 import sys
 
 COM5 = 'COM5'
